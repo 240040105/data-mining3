@@ -26,3 +26,5 @@ DBLP: https://dblp.uni-trier.de/xml/
 乐学平台提交注意事项：
 仓库地址：记得加上
 报告：附件，word，pdf，html格式都可以
+
+选取的数据集是数据集 Microsoft 资讯推荐 和数据集：SNAP(Stanford Large Network Dataset Collection) Astro Physics collaboration network
